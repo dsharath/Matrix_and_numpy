@@ -1,2 +1,2 @@
-# Matrix_and_numpy
-This project shows a How to use Numpy for the matrices in python
+#                                                     Matrix And Numpy
+It is a final project in Udacitys' matrix and numpy refresher course, these project explains the using of numpy in python for basic math calculations.
